@@ -1,0 +1,31 @@
+[
+  {"order_id":"ORD001","customer_id":"C001","amount":100,"days_since_purchase":10,"product_type":"Physical","final_sale":false,"damaged":true},
+
+  {"order_id":"ORD002","customer_id":"C002","amount":200,"days_since_purchase":15,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD003","customer_id":"C003","amount":50,"days_since_purchase":45,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD004","customer_id":"C004","amount":80,"days_since_purchase":5,"product_type":"Digital","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD005","customer_id":"C005","amount":300,"days_since_purchase":20,"product_type":"Physical","final_sale":true,"damaged":false},
+
+  {"order_id":"ORD006","customer_id":"C006","amount":120,"days_since_purchase":12,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD007","customer_id":"C007","amount":90,"days_since_purchase":60,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD008","customer_id":"C008","amount":180,"days_since_purchase":7,"product_type":"Physical","final_sale":false,"damaged":true},
+
+  {"order_id":"ORD009","customer_id":"C009","amount":250,"days_since_purchase":25,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD010","customer_id":"C010","amount":110,"days_since_purchase":18,"product_type":"Digital","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD011","customer_id":"C011","amount":140,"days_since_purchase":8,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD012","customer_id":"C012","amount":220,"days_since_purchase":14,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD013","customer_id":"C013","amount":95,"days_since_purchase":35,"product_type":"Physical","final_sale":false,"damaged":false},
+
+  {"order_id":"ORD014","customer_id":"C014","amount":400,"days_since_purchase":6,"product_type":"Physical","final_sale":false,"damaged":true},
+
+  {"order_id":"ORD015","customer_id":"C015","amount":175,"days_since_purchase":22,"product_type":"Physical","final_sale":false,"damaged":false}
+]

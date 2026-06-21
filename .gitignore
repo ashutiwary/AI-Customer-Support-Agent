@@ -1,0 +1,22 @@
+# Python (backend)
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+backend/.env
+backend/*.log
+backend/data/agent_logs.json
+backend/test*.py
+
+# Node / Next.js (frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+frontend/.env*
+
+# editor / OS
+.DS_Store
+.vscode/
+*.swp

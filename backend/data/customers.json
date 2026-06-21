@@ -1,0 +1,17 @@
+[
+  {"customer_id":"C001","name":"John Smith","email":"john@test.com","tier":"Gold","refund_count":2},
+  {"customer_id":"C002","name":"Sarah Johnson","email":"sarah@test.com","tier":"Silver","refund_count":1},
+  {"customer_id":"C003","name":"Michael Brown","email":"michael@test.com","tier":"Gold","refund_count":6},
+  {"customer_id":"C004","name":"Emma Davis","email":"emma@test.com","tier":"Bronze","refund_count":0},
+  {"customer_id":"C005","name":"James Wilson","email":"james@test.com","tier":"Silver","refund_count":3},
+  {"customer_id":"C006","name":"Olivia Taylor","email":"olivia@test.com","tier":"Gold","refund_count":5},
+  {"customer_id":"C007","name":"William Anderson","email":"will@test.com","tier":"Bronze","refund_count":1},
+  {"customer_id":"C008","name":"Sophia Thomas","email":"sophia@test.com","tier":"Silver","refund_count":4},
+  {"customer_id":"C009","name":"Benjamin Moore","email":"ben@test.com","tier":"Gold","refund_count":7},
+  {"customer_id":"C010","name":"Isabella Martin","email":"isa@test.com","tier":"Bronze","refund_count":2},
+  {"customer_id":"C011","name":"Lucas Jackson","email":"lucas@test.com","tier":"Silver","refund_count":0},
+  {"customer_id":"C012","name":"Mia White","email":"mia@test.com","tier":"Gold","refund_count":2},
+  {"customer_id":"C013","name":"Henry Harris","email":"henry@test.com","tier":"Bronze","refund_count":1},
+  {"customer_id":"C014","name":"Charlotte Clark","email":"charlotte@test.com","tier":"Silver","refund_count":8},
+  {"customer_id":"C015","name":"Ethan Lewis","email":"ethan@test.com","tier":"Gold","refund_count":3}
+]
