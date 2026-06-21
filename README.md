@@ -26,7 +26,7 @@ Chat and voice both go through the exact same decision graph. The voice worker d
 
 ## Tech stack
 
-Backend: Python, FastAPI, LangChain, LangGraph, Groq (LLM), LiveKit Agents (voice).
+Backend: Python, FastAPI, LangChain, LangGraph, Groq (`openai/gpt-oss-20b`), LiveKit Agents (voice).
 
 Frontend: Next.js, React, TypeScript, Tailwind CSS, livekit-client.
 
